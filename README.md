@@ -91,9 +91,18 @@ print(f'No se pudo borrar {nombre_archivo}: {e}')
 
 ---
 
-## Licencia
+--- 
 
-Este script es de código abierto. ¡Modifica y comparte libremente!
+## 📄 Licencia
+Libre, usalo como quieras
+<div align="center">
+  Hecho con 💙 y neones
+</div>
+
+---
+
+## ⭐ Si te gustó este proyecto, no olvides dejar una estrella en GitHub!
+
 
 
 
